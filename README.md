@@ -1,2 +1,2 @@
-# pontos_turisticos
-API REST criada em linguagem Python com Django e Django Rest Framework
+# setup_repository
+Arquivos básicos usados na criação de repositórios
